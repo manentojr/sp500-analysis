@@ -1,6 +1,6 @@
 # S&P 500 Index Analysis
 
-## Project Question
+## Central Question
 **What's really inside the S&P 500? Analyzing the composition, concentration, and turnover of the world's most popular index to understand what investors are actually buying.**
 
 The S&P 500 is often treated as a proxy for "the whole U.S. stock market," but most investors never look under the hood. This data analysis project explores what the index actually contains — how its sectors are weighted, how concentrated it is in a handful of companies, and how its composition changes over time.
